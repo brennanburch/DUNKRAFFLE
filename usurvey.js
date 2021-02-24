@@ -5,11 +5,11 @@ var uuid = require('uuid');
 
 
 var config = {
-    apiKey: "AIzaSyDdhC4zzUHclCdk2sCW-Jumta6xEBPUWVU",
-    authDomain: "usurvey-b7353.firebaseapp.com",
-    databaseURL: "https://usurvey-b7353-default-rtdb.firebaseio.com",
-    storageBucket: "usurvey-b7353.appspot.com",
-    messagingSenderId: "539322440263"
+    apiKey: "PUT YOUR API KEY HERE",
+    authDomain: "PUT YOUR AUTHODOMAIN HERE",
+    databaseURL: "PUT YOUR DATABASEURL HERE",
+    storageBucket: "STORAGE BUCKET ID",
+    messagingSenderId: "MESSAGING SENDER ID"
 }; 
 
 firebase.initializeApp(config);
